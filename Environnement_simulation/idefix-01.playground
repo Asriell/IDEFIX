@@ -1,0 +1,12 @@
+<!DOCTYPE aseba-playground>
+<aseba-playground>
+	<color name="wall" r="0.9" g="0.9" b="0.9" />
+	<color name="red" r="0.77" g="0.2" b="0.15" />
+	<color name="green" r="0" g="0." b="0.17" />
+	<color name="blue" r="0" g="0.38" b="0.61" />
+
+	<world w="120" h="120" color="wall" groundTexture="idefix-01.png"/>
+
+	<robot type="thymio2" x="15" y="30" port="33333" />
+
+</aseba-playground>
